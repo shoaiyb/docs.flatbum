@@ -2,10 +2,10 @@
 layout: post
 title:  "Les Ambassadeurs, the first Restaurant we Visited in Paris"
 author: shoaiyb
-categories: [ Lifestyle ]
+categories: [ Lifestyle ], [ Test ]
 tags: [ France ]
-image: assets/logo.png
-rating: 4.5
+image: assets/images/logo.png
+rating: 2.8
 ---
 
 Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century. 
