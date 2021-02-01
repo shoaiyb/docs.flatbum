@@ -41,6 +41,14 @@ plugins:
   - jekyll-archives
   - jekyll-figure
   - jekyll-redirect-from
+ jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "pages"
     
 # Archives
 jekyll-archives:
