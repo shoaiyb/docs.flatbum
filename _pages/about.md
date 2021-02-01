@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
-permalink: /about
+title: About
+permalink: /about/
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/logo.svg
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+A simple databaseless flat file cms **flat bum** in action. The cms is compatible with php 5+. 
 
-<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+<a href="/" class="btn btn-dark"> Flatbum CMS</a>
 
