@@ -40,7 +40,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
-  - amp-jekyll
+  - jekyll-redirect-from
     
 # Archives
 jekyll-archives:
