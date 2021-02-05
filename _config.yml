@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'flatbum'
-mailchimp-list: 'https://mail.shoaiybsysa.ga/action'
+mailchimp-list: 'mailto:support@flatbum.ga'
 include: ["_pages"]
 permalink: /:title/
 email: support@flatbum.ga
@@ -66,7 +66,7 @@ kramdown:
 
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "enabled"
+adsense: "disabled"
 adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
