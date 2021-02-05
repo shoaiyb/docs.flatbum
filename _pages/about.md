@@ -7,7 +7,7 @@ image: assets/images/logo.svg
 imageshadow: true
 ---
 
-A simple databaseless flat file cms **flat bum** in action. The cms is compatible with php 5+. 
+A simple databaseless flat file gallery cms **flatbum** in action. The cms is compatible with php 5+. 
 
-<a href="/" class="btn btn-dark"> Flatbum CMS</a>
+<a href="/" class="btn btn-dark">Flatbum CMS</a>
 
