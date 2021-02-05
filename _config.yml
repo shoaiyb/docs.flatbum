@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'flatbum'
-mailchimp-list: 'mailto:support@flatbum.ga'
+mailchimp-list: 'https://mailto:support@flatbum.ga'
 include: ["_pages"]
 permalink: /:title/
 email: support@flatbum.ga
@@ -17,7 +17,7 @@ authors:
   shoaiyb:
     name: shoaiyb sysa
     display_name: sysa
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 9b70db5a5cdfd531438f63ff4cae215a
     email: contact@shoaiybsysa.ga
     web: about/
     twitter: #
