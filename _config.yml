@@ -1,9 +1,9 @@
 # Site
 name: "Flatbum"
-title: "Flatbum CMS"
-description: "A simple databaseless flat file gallery cms"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+title: "Flatbum Gallery CMS"
+description: "Flatbum is an Open Source CMS which makes it simpler and easier for you to create your own self hosted Albums & Galleries with few clicks, And no database is needed."
+logo: 'assets/images/logo.svg'
+favicon: 'assets/images/favicon-32×32.png'
 baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'flatbum'
